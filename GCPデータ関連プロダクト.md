@@ -20,7 +20,6 @@ Cloud SQLはRDBMSのフルマネージドサービスである。
 ![image](https://user-images.githubusercontent.com/86205382/145955705-62cc6c4e-6116-4e3d-ac7f-710f46aa64e2.png)
 
 ## Bigqueryアーキテクチャ
-これが王道かつ完璧なアーキテクチャらしい
 ![image](https://user-images.githubusercontent.com/86205382/145955715-e45d1cd8-6058-4221-b0ac-dc4989a20580.png)
 
 ### Cloud Dataprep
@@ -32,7 +31,6 @@ Bigquery上でModelの作成が可能
 数行で書けて簡単。だけでなく、上級者向けオプションとしてLn正則化やクロスバリデーションの設定なども可能
 
 ## データ変換からデータの可視化までをGCPで
-よくあるアーキテクチャ画像
 ![image](https://user-images.githubusercontent.com/86205382/145955747-918d5b1f-abca-4b41-8d25-6096ee36634c.png)
 
 ### Pubsub
